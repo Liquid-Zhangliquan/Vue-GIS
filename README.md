@@ -1,3 +1,9 @@
+#author
+ouyangbo
+
+#origin 
+#http://39.108.100.163:8080/git/root/vueapp.git
+
 # vueapp
 
 > A Vue.js project
